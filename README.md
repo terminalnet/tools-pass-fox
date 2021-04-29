@@ -1,2 +1,2 @@
 # tools-pass-fox
-test
+test ok
